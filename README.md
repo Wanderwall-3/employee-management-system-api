@@ -1,12 +1,29 @@
-# React + Vite
+# React + Springboot to CRUD Operations
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/aa02dee1-e323-41ee-a94a-7ba9ca2e75ea)
+![image](https://github.com/user-attachments/assets/e2b5aa03-9bc8-40f2-bce4-1601027f0984)
+![image](https://github.com/user-attachments/assets/310b0e83-b185-4697-ac47-6c0ff3eaa409)
 
-Currently, two official plugins are available:
+🚀 React + Spring Boot CRUD Operations
+This project demonstrates basic CRUD operations using React for the frontend and Spring Boot for the backend.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔧 Backend Deployment (Spring Boot + MySQL on Google Cloud)
+The backend is deployed on Google Cloud Platform (GCP).
 
-## Expanding the ESLint configuration
+MySQL is used as the database for storing and managing data.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The .jar file was uploaded on June 11, 2025.
+
+Google Cloud provides a free trial for 91 days or $300 in credits.
+
+⚠️ The backend service will stop once the free trial ends.
+
+📌 Purpose
+This project is created for practice purposes only.
+After completing this project, I plan to:
+
+Learn JWT (JSON Web Token) for session management.
+
+Integrate Spring Security with JWT to secure the application.
+
+**VISIT THE PROJECT - ** https://wanderwall-3.github.io/employee-management-system-api/
