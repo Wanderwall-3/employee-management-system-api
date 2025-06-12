@@ -10,7 +10,7 @@ function App() {
     <>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<ListEmployeeTable />} />
+        <Route path="/employee_management_system" element={<ListEmployeeTable />} />
         <Route path="/add-employee" element={<AddOrUpdateEmployee />} />
         <Route path="/update-employee/:id" element={<AddOrUpdateEmployee />}/>
         {/* <Route path="/update-employee/:id" element={<AddEmployee />} /> */}

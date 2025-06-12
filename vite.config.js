@@ -8,5 +8,5 @@ export default defineConfig({
     port: 3000,
     host: true
   },
-  base: '/employee-frontend-and-backend/'
+  base: '/employee_management_system/'
 })
