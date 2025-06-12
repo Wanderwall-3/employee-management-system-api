@@ -1,4 +1,4 @@
-# React + Springboot to CRUD Operations
+# React + Springboot for CRUD Operations
 
 ![image](https://github.com/user-attachments/assets/aa02dee1-e323-41ee-a94a-7ba9ca2e75ea)
 ![image](https://github.com/user-attachments/assets/e2b5aa03-9bc8-40f2-bce4-1601027f0984)
